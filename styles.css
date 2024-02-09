@@ -5,7 +5,9 @@
 p {
     display: inline ;
 } */
-
+body{
+    background-color: darkseagreen;
+}
 span{
     color: coral;
     background-color: aqua;
